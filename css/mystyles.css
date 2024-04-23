@@ -1,0 +1,124 @@
+.header{
+    color: rgb(124,135,142);
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 90px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 50px;
+    width: 100%;
+}
+nav a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    padding: 20px;
+}
+nav a:hover{
+    background-color: rgb(182, 183, 182);
+}
+nav{
+    background-color: rgb(199, 201,199);
+    padding: 20px;
+    overflow: hidden;
+    position: fixed;
+    top: 0px;
+    right: 3px;
+    left: 3px;
+}
+.list{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+ol{
+    list-style-position: inside;
+}
+ul{
+    list-style-position: inside;
+}
+.items{
+    font-size: 20;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+div.box{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+ul.myUL{
+    display: inline-block;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.smallheader{
+    color: black;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    width: 100%;
+}
+.medheader{
+    color: rgb(124,135,142);
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 30px;
+    width: 100%;
+}
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mainbody{
+    background-color: whitesmoke;
+}
+.footer{
+    background-color:rgb(199, 201,199);
+    color: white;
+    font-weight: bold;
+    bottom: 0px;
+    right: 3px;
+    left: 3px;
+    height: 35px;
+    font-size: 15px;
+    line-height: 35px;
+    text-align: center;
+}
+#top{
+    text-decoration: underline;
+}
+a:link{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(0,65,142);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
